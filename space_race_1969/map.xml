@@ -1,13 +1,12 @@
 <map proto="1.4.0">
 <name>Space Race: 1969</name>
 <version>1.0.0</version>
-<objective>Capture the enemies' flag.</objective>
+<objective>Capture the enemy flag as many times before time runs out</objective>
 <authors>
     <author uuid="2958ea4c-3501-404e-88cc-12e8632f68cc"/> <!--  NixaniaXi  -->
 </authors>
 <time>12m</time>
 <score>
-    <limit>3</limit>
     <kills>0</kills>
     <deaths>0</deaths>
 </score>
