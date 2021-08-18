@@ -154,6 +154,7 @@
     </any>
 </filters>
 <regions>
+<apply block="never" region="everywhere"/>
     <!--control points-->
     <cuboid id="cp-red-last"  min="-316,19,246" max="-309,15,253"/>
     <cuboid id="cp-red-2nd"   min="-286,17,220" max="-279,13,213"/>
