@@ -10,8 +10,8 @@
     <contributor uuid="9929437a-9b7d-4d7a-b05d-e22fe93ac042"/> <!-- triplezko -->
 </contributors>
 <teams>
-    <team id="red" color="dark red" max="7" max-overfill="7">Red</team>
-    <team id="yellow" color="yellow" max="7" max-overfill="7">Yellow</team>
+    <team id="red" color="dark red" max="5" max-overfill="5">Red</team>
+    <team id="yellow" color="yellow" max="5" max-overfill="5">Yellow</team>
 </teams>
 <kits>
     <kit id="spawn-kit">
