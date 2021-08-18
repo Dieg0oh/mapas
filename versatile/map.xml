@@ -1,7 +1,7 @@
 <map proto="1.4.0">
 <name>Versatile</name>
 <version>1.0.4</version>
-<objective>Capture the enemy flag 3 times.</objective>
+<objective>Capture the enemy flag as many times before time runs out</objective>
 <edition>tournament</edition>
 <gamemode>ctf</gamemode>
 <authors>
@@ -81,7 +81,8 @@
 </flags>
 <time>12m</time>
 <score>
-    <limit>3</limit>
+    <kills>0</kills>
+    <deaths>0</deaths>
 </score>
 <toolrepair>
     <tool>iron sword</tool>
