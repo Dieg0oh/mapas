@@ -168,10 +168,10 @@
     <control-point initial-owner="blue" id="blue-2nd"  required="false" name="Blue 2nd"  capture-time="8s" points="0" incremental="true" capture="cp-blue-2nd"  scaled-time="true" time-multiplier="0.25" progress="cp-blue-2nd"  player-filter="filter-blue-2nd"/>
     <control-point initial-owner="blue" id="blue-last" required="false" name="Blue Last" capture-time="8s" points="0" incremental="true" capture="cp-blue-last" scaled-time="true" time-multiplier="0.25" progress="cp-blue-last" player-filter="filter-blue-last"/>
     <!-- Point Givers -->
-    <control-point id="red-last-point"  required="false" show="false" points="10000" name="RL Point" capture-time="0s" capture="everywhere" decay="9999" player-filter="filter-last-point-blue" capture-filter="only-blue"/>
+    <control-point id="red-last-point"  required="false" show="false" points="2" name="RL Point" capture-time="0s" capture="everywhere" decay="9999" player-filter="filter-last-point-blue" capture-filter="only-blue"/>
     <control-point id="red-2nd-point"   required="false" show="false" points="1" name="R2 Point" capture-time="0s" capture="everywhere" decay="9999" player-filter="filter-2nd-point-blue"  capture-filter="only-blue"/>
     <control-point id="blue-2nd-point"  required="false" show="false" points="1" name="B2 Point" capture-time="0s" capture="everywhere" decay="9999" player-filter="filter-2nd-point-red"   capture-filter="only-red"/>
-    <control-point id="blue-last-point" required="false" show="false" points="10000" name="BL Point" capture-time="0s" capture="everywhere" decay="9999" player-filter="filter-last-point-red"  capture-filter="only-red"/>
+    <control-point id="blue-last-point" required="false" show="false" points="2" name="BL Point" capture-time="0s" capture="everywhere" decay="9999" player-filter="filter-last-point-red"  capture-filter="only-red"/>
 </control-points>
 <!--
 <broadcasts>
