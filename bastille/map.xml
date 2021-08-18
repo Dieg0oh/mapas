@@ -126,7 +126,8 @@
 </flags>
 <time overtime="1m" max-overtime="6m" result="score">12m</time>
 <score>
-    <mercy>5</mercy>
+    <kills>0</kills>
+    <deaths>0</deaths>
 </score>
 <respawns>
     <respawn delay="3s" auto="true" blackout="true" filter="spawn-1"/>
