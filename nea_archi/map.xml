@@ -12,7 +12,7 @@
     <team id="red" color="dark red" max="5">Red</team>
     <team id="blue" color="blue" max="5">Blue</team>
 </teams>
-<time result="objectives">25m</time>
+<time result="objectives">20m</time>
 <spawns>
     <default yaw="90">
         <region>
