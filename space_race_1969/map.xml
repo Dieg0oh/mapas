@@ -5,7 +5,7 @@
 <authors>
     <author uuid="2958ea4c-3501-404e-88cc-12e8632f68cc"/> <!--  NixaniaXi  -->
 </authors>
-<time>12m</time>
+<time overtime="1m" max-overtime="6m">12m</time>
 <score>
     <kills>0</kills>
     <deaths>0</deaths>
