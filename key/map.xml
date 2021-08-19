@@ -94,7 +94,7 @@
     </default>
 </spawns>
 <maxbuildheight>30</maxbuildheight>
-<time result="objectives">30m</time>
+<time result="objectives">20m</time>
 <crafting> 
     <disable>redstone torch on</disable>
     <disable>redstone torch on</disable>
