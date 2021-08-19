@@ -127,7 +127,7 @@
         <tool>diamond axe</tool>
     </toolrepair>
     <maxbuildheight>56</maxbuildheight>
-    <time>30m</time>
+    <time>20m</time>
     <respawn delay="7s" blackout="true"/> <!-- Delay -->
     <timelock>on</timelock>
 </map>

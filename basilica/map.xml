@@ -111,7 +111,7 @@
         <net region="blue-net" flag="red-flag" respawn-filter="flag-respawns"/>
     </flags>
 </flags>
-<time>12m</time>
+<time overtime="1m" max-overtime="6m">12m</time>
 <score>
     <kills>0</kills>
     <deaths>0</deaths>
