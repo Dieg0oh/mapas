@@ -12,8 +12,8 @@
     <edition>ranked</edition>
     <time result="objectives">20m</time>
     <teams>
-        <team id="red-team" color="red" max="7">Red</team>
-        <team id="blue-team" color="blue" max="7">Blue</team>
+        <team id="red-team" color="red" max="5">Red</team>
+        <team id="blue-team" color="blue" max="5">Blue</team>
     </teams>
     <respawn delay="5s" auto="true" blackout="true"/>
     <kits>
